@@ -11,23 +11,28 @@ Demo: https://drive.google.com/drive/folders/1_nrGDmpEKAVGR9obwzgaiaHI4ddNwaqg?h
 ## TÍNH NĂNG NỔI BẬT
 
 * **Quản lý thư viện nhạc:** Tự động quét các tệp âm thanh có sẵn trong thiết bị, hỗ trợ công cụ tìm kiếm nhanh và sắp xếp thông minh theo Tên bài, Nghệ sĩ hoặc Ngày thêm mới nhất.
+<img width="389" height="850" alt="{AD4556A8-0F10-48AA-8B6F-E53F2F19D248}" src="https://github.com/user-attachments/assets/3e95441d-6edd-4247-b294-c6a5f0e6709b" />
 
 
 
 * **Quản lý Playlist cá nhân:** Người dùng có thể tự do tạo mới, đổi tên, xóa danh sách phát, cũng như thêm/bớt các bài hát yêu thích vào Playlist dễ dàng.
+<img width="395" height="859" alt="{5F39779A-C8EE-4AB9-85D9-9A56967573B4}" src="https://github.com/user-attachments/assets/9b9a4a05-2a34-4541-ae9b-5c0fd9eb9213" />
 
 
 
 * **Điều khiển âm thanh toàn diện:** Đầy đủ các thao tác cơ bản (Phát, Tạm dừng, Chuyển bài, Tua). Tích hợp thanh trượt điều chỉnh âm lượng (Volume) và thay đổi tốc độ phát nhạc (từ 0.5x đến 2.0x).
 
+<img width="398" height="858" alt="{38A63FEA-8BF8-4939-9BFF-1BBABE6A8CAE}" src="https://github.com/user-attachments/assets/39920f32-86f5-44f5-b2a2-587c04667423" />
 
 
 * **Các chế độ phát nhạc:** Hỗ trợ Trộn bài (Shuffle) ngẫu nhiên và Lặp lại (Repeat All, Repeat One, Repeat Off).
 
+<img width="385" height="313" alt="{79A1A9F4-9FD5-4E2E-9C90-D3C27D11B82D}" src="https://github.com/user-attachments/assets/3ba2a35b-6875-41ea-8754-905902548df3" />
 
 
 * **Phát nhạc chạy nền (Background Playback):** Âm nhạc không bao giờ dừng lại. Ứng dụng tiếp tục phát nhạc ngay cả khi bị ẩn xuống nền hoặc khi khóa màn hình, kèm theo trình điều khiển trực tiếp trên thanh thông báo hệ thống.
 
+<img width="338" height="174" alt="{F9BE3EEE-3331-46EB-9F84-1CB711E33314}" src="https://github.com/user-attachments/assets/9c305e22-3194-4ee4-9b82-e3ba84f1cfb0" />
 
 
 * **Lưu trữ trạng thái thông minh:** Ứng dụng tự động ghi nhớ bài hát đang nghe dở, vị trí thời gian bài hát, cấu hình âm lượng và danh sách Playlist. Khi khởi động lại, mọi thứ vẫn ở nguyên vị trí cũ.
